@@ -1,4 +1,5 @@
 Requirement:
+
     Implement an automated test that performs the following (steps); 
 	 • Searches for SecurePayon www.google.com.au 
 	 • Clicks through to the SecurePaywebsite 
@@ -9,9 +10,11 @@ Requirement:
 	 • The test must not submit the form
 
 Used Technologies:
+
 	Java, Selenium WebDriver, BDD, Cucumber, TestNG, Maven and Javafaker
 
 Run Test Steps:
+
     1. Clone this project to a local folder
 	2. Modify driver path in config.properties
 	3. Run mvn test
