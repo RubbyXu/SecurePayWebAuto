@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Secure Pay Contact Us Suite" parallel="tests">
+    <test name="Run All Tests">
+        <classes>
+            <class name="com.securepay.webauto.runner.TestRunner"></class>
+        </classes>
+    </test>
+</suite>
