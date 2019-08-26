@@ -13,8 +13,11 @@ Used Technologies:
 
 	Java, Selenium WebDriver, BDD, Cucumber, TestNG, Maven and Javafaker
 
+Supported Browsers:
+
+    Chrome, FireFox, IE
+
 Run Test Steps:
 
     1. Clone this project to a local folder
-	2. Modify driver path in config.properties
-	3. Run mvn test
+	2. Run mvn test
